@@ -1,1 +1,1 @@
-# -Sales-and-Analysis-for-Beverage-Manufacturing
+# Sales-and-Analysis-for-Beverage-Manufacturing
