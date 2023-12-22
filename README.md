@@ -11,4 +11,10 @@ Created a concise, quick, one-page interactive dashboard to analyze the sale of 
 6. Highlighted the selling rate in different colours (0-33%-> Red, 34%-66%->Yellow, 67%-100%-> Green).
 7. Recognized that most of the products have ‘0’ as their Product number, which might cause duplication and complexity and, therefore can give an incorrect prediction 
 8. There are around 2628069 Categories without Class (Parent). For ex. Cider, 7% Sparkling, Alcohol, Mead, Ice Wine, and Domestic Beer do not fall under any Class 
-9. Created Slicers with a drop-down to filter products based on Class, Category and Province for ease of access 
+9. Created Slicers with a drop-down to filter products based on Class, Category and Province for ease of access.
+
+## TOOLS USED
+Microsoft BI
+Power Query
+
+## DASHBOARD PREVIEW
